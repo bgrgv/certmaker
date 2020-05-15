@@ -2,7 +2,7 @@
 Create Certificates Easily For Any Events
 
 
--->Instructions For Use:
+## Instructions For Use:
 
 1. Place your CSV file with JUST ONE COLUMN (Names Only) as /files/in.csv .
 
